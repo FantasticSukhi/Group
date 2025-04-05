@@ -45,7 +45,7 @@
 - Install pip by :
 `sudo pip3 install -U pip`
 - Clone the repository by :
-`git clone https://github.com/AnonymousX1025/FallenRobot && cd FallenRobot`
+`git clone https://github.com/FantasticSukhi/Group && cd Group`
 - Install/Upgrade setuptools by :
 `pip3 install --upgrade pip setuptools`
 - Install requirements by :
@@ -59,7 +59,7 @@ Press `Ctrl+C` when you're done with editing config and `:wq` to save the config
 - Install tmux to keep running your bot when you close the terminal by :
 `sudo apt install tmux && tmux`
 - Finally run the bot by :
-`python3 -m FallenRobot`
+`python3 -m Group`
 - For getting out from tmux session
 
 Press `Ctrl+b` and then `d`
